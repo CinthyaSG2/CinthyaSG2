@@ -5,7 +5,7 @@
 
 - 🔭 Accountant
 - 🌱 Learning Data Analysis (Python, SQL, Tableau)
-- 👯 I'm looking to collaborate on Financial Planning positions
+- 👯 I'm looking to collaborate on Financial Planning & Data Analysis positions
 
 
 https://github.com/user-attachments/assets/318dcca6-c6fc-43cb-9fe5-43405d2cdd9f
