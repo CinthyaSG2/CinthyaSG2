@@ -7,6 +7,10 @@
 - 🌱 Learning Data Analysis (Python, SQL, Tableau)
 - 👯 I'm looking to collaborate on Financial Planning positions
 
+
+https://github.com/user-attachments/assets/318dcca6-c6fc-43cb-9fe5-43405d2cdd9f
+
+
 I am an Accountant with 8 years of experience in the finance field. During this time, I have gained expertise in the development, presentation, and review of accounting and financial information. I have participated in improvement projects, acted as a key point for system migrations, and contributed to the standardization of procedures for a global company. Additionally, I have supported planning and decision-making processes when migrating companies to the scope of an office, and led a team of five people, which involved conducting 1:1 sessions, providing training, offering close support, mentoring and more.
 
 ## Where to find me:
